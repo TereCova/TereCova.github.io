@@ -410,3 +410,15 @@ footer {
     max-width: 600px;
   }
 }
+
+.proyecto2 {
+  width: 80%;
+  height: 0%;
+  padding: 10px;
+  border-radius: 15px;
+  display: block;
+  transition: all 0.2s ease
+  
+  
+  
+}
